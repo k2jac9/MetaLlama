@@ -1,12 +1,12 @@
+
 # Llama Prob-Llama Helper 🦙💡
 
 Empowering caregivers and physicians with time-saving, innovative solutions to improve the quality of care for Alzheimer’s patients. Transforming the lives of millions of families impacted by Alzheimer’s disease.
 
----
 ## 🎥 Demo
 
 Check out the demo video of Llama Prob-Llama Helper:  
-https://drive.google.com/file/d/1O5xDpY-nqYfj2gK1JkaKJn2kNI5QxPfd/view
+https://www.youtube.com/watch?v=MdzVOrUDiNQ
 
 ## Team 🧑‍🤝‍🧑
 
@@ -25,8 +25,6 @@ To empower families and doctors with tools that:
 - Enhance the caregiving process.
 - Support physicians to focus more on patients.
 
----
-
 ## 🧠 The Problem: Alzheimer’s Dementia
 
 - **750,000 Canadians** live with Alzheimer’s or other forms of dementia.
@@ -35,8 +33,6 @@ To empower families and doctors with tools that:
   - Navigating through complex resources.
   - Managing caregiving tasks.
   - Balancing personal and professional lives.
-
----
 
 ## 🔧 Our Solution
 
@@ -49,8 +45,6 @@ To empower families and doctors with tools that:
 - **For Doctors**  
   - Time-saving workflows.
   - Reduces burnout while enhancing productivity.
-
----
 
 ## 🚀 Features
 
@@ -66,15 +60,11 @@ To empower families and doctors with tools that:
 - Offers a conversational interface for common caregiving questions.
 - Built-in tools to track caregiving tasks and resources.
 
----
-
 ## 💡 Inspiration
 
 The project draws inspiration from:
 - Families impacted by Alzheimer’s seeking better caregiving tools.
 - Physicians’ need for more efficient workflows to focus on patient care.
-
----
 
 ## 🏗️ How We Built It
 
@@ -85,15 +75,11 @@ The project draws inspiration from:
 - **AI model**: LLama 3.2 model
 - **Version Control**: Git & GitHub
 
----
-
 ## 🥺 Challenges We Faced
 
 - Parsing unstructured content from PDFs into searchable data.
 - Designing an intuitive yet robust interface for diverse users (caregivers and physicians).
 - Managing feedback loops and ensuring adaptability for future features.
-
----
 
 ## 🥰 Accomplishments We’re Proud Of
 
@@ -101,15 +87,11 @@ The project draws inspiration from:
 - Streamlining workflows for physicians, saving hundreds of hours annually.
 - Integrating feedback from real-world users into the development process.
 
----
-
 ## 💡 What We Learned
 
 - The importance of understanding end-user needs during development.
 - Effective communication to avoid overlapping work in a collaborative environment.
 - Strategies for creating a consistent and accessible user experience.
-
----
 
 ## 🚀 What’s Next
 
