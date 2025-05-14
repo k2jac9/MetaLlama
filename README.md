@@ -5,8 +5,7 @@ Empowering caregivers and physicians with time-saving, innovative solutions to i
 
 ## 🎥 Demo
 
-Check out the demo video of Llama Prob-Llama Helper:  
-https://www.youtube.com/watch?v=MdzVOrUDiNQ
+▶️ [Check out our video of Llama Prob-Llama Helper!](https://www.youtube.com/watch?v=MdzVOrUDiNQ)
 
 ## Team 🧑‍🤝‍🧑
 
